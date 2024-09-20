@@ -1,0 +1,11 @@
+{
+    "name": "tamas/smarty",
+    "autoload": {
+        "psr-4": {
+            "Tamas\\Smarty\\": "src/"
+        }
+    },
+    "require": {
+        "smarty/smarty": "^5.4"
+    }
+}
